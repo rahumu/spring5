@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.app.models.service;
+package com.bolsadeideas.springboot.backend.apirest;
 
 import java.util.List;
 
